@@ -3,6 +3,7 @@
 
 IVEread는 **친구들과 함께하는 교환 독서 경험**을 중심으로  
 독서 기록, 소셜 상호작용, AI 기반 독서 인사이트를 제공하는 모바일 앱입니다.
+![IVEread Team Illustration](https://raw.githubusercontent.com/IVEread/IVEread-FE/main/iveread/assets/images/iveread-people-Photoroom1.png)
 
 ---
 
