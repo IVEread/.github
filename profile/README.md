@@ -14,7 +14,7 @@ IVEread는 **친구들과 함께하는 교환 독서 경험**을 중심으로
 - Email: pingu090@hanyang.ac.kr  
 - GitHub: https://github.com/godten-cmd  
 
-### 👩🏻‍💻 임유진 (Yoojin Lim, a.k.a 밤티걸)
+### 👩🏻‍💻 임유진 (Yoojin Lim)
 - Dept. of Computer Science & Engineering, POSTECH  
 - Backend Developer  
 - Email: limyoojin@postech.ac.kr  
