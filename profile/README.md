@@ -26,14 +26,14 @@ IVEread는 **친구들과 함께하는 교환 독서 경험**을 중심으로
 
 - **GitHub**: https://github.com/IVEread  
 - **Figma**:  
-  https://embed.figma.com/design/Ph1ardey7Sjx7H59yM5Uur/madcamp-2026-app  
+  [https://embed.figma.com/design/Ph1ardey7Sjx7H59yM5Uur/madcamp-2026-app](https://www.figma.com/design/Ph1ardey7Sjx7H59yM5Uur/madcamp-2026-app?node-id=1-2&t=XKEB0mpd5nuMn1JF-0)  
 
 ---
 
 ## 🎥 iOS 시연 영상
 (추후 영상 링크 첨부)
 
-![IVEread Logo](./assets/iveread-logo.jpg)
+![IVEread Logo](../IVEread-FE/iveread/assets/images/iveread-logo.jpg)
 
 ---
 
