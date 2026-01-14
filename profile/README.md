@@ -47,23 +47,16 @@ IVEread는 **친구들과 함께하는 교환 독서 경험**을 중심으로
 
 ## 🧑‍💻 기술 스택
 
-**Frontend**
-- React Native
+| Category | Technology | Description |
+|--------|------------|-------------|
+| Frontend | React Native | iOS 기반 모바일 앱 개발 |
+| Backend | Node.js (Next.js) | REST API 서버 및 인증 로직 구현 |
+| Database | PostgreSQL | 사용자, 독서 기록, 교환독서 데이터 관리 |
+| AI | Gemini 2.5 Flash | 독서 기록 기반 AI 요약 및 인사이트 생성 |
+| External API | Aladin Book Search API | 도서 검색 및 메타데이터 제공 |
+| Dev Tools | VS Code | 개발 환경 |
+| Version Control | GitHub | 소스 코드 관리 및 협업 |
 
-**Backend**
-- Node.js (Next.js 기반 API)
-
-**Database**
-- PostgreSQL
-
-**AI**
-- Gemini 2.5 Flash
-
-**External API**
-- 알라딘 도서 검색 API
-
-**Tools**
-- VS Code, GitHub
 
 ---
 
