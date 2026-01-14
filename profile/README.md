@@ -33,7 +33,7 @@ IVEread는 **친구들과 함께하는 교환 독서 경험**을 중심으로
 ## 🎥 iOS 시연 영상
 (추후 영상 링크 첨부)
 
-![IVEread Logo](https://raw.githubusercontent.com/IVEread-FE/iveread/main/assets/images/iveread-logo.jpg)
+![IVEread Logo](https://raw.githubusercontent.com/IVEread/IVEread-FE/main/iveread/assets/images/iveread-logo.jpg)
 
 ---
 
@@ -69,7 +69,7 @@ IVEread는 **친구들과 함께하는 교환 독서 경험**을 중심으로
 
 ## 🏗 시스템 아키텍처
 
-![System Architecture](https://raw.githubusercontent.com/IVEread-FE/iveread/main/assets/images/system-architecture.png)
+![System Architecture](https://raw.githubusercontent.com/IVEread/IVEread-FE/main/iveread/assets/images/system-architecture.jpg)
 
 (ERD 수정 후 추가 예정)
 
@@ -77,7 +77,7 @@ IVEread는 **친구들과 함께하는 교환 독서 경험**을 중심으로
 
 ## 🔐 로그인 / 회원가입 / 비밀번호 재설정
 
-![Login Flow](https://raw.githubusercontent.com/IVEread-FE/iveread/main/assets/images/login-flow.png)
+![Login Flow](https://raw.githubusercontent.com/IVEread/IVEread-FE/main/iveread/assets/images/ogin-flow.jpg)
 
 - **백엔드 API와 연동된 사용자 인증 플로우 구현**
 - 로그인, 회원가입, 비밀번호 재설정 기능 제공
