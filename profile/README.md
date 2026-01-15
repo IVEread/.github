@@ -31,14 +31,6 @@ IVEread는 **친구들과 함께하는 교환 독서 경험**을 중심으로
 
 ---
 
-## 📱 Android APK Download
-
-👉 **[APK 다운로드 (Expo EAS Build)](https://expo.dev/accounts/godten/projects/my-app/builds/2c50b270-3c25-49e4-a3f8-fef8dc68d08a)**
-
-> 안드로이드 기기에서 링크를 열어 APK를 설치할 수 있습니다.  
-> (보안 경고가 뜰 경우 “알 수 없는 앱 허용”을 활성화해주세요.)
-
-
 ## 🎥 iOS 시연 영상
 (추후 영상 링크 첨부)
 
